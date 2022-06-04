@@ -14,7 +14,7 @@ function App() {
         <Dictionary defaultKeyword="beach"/>
       </main>
       <footer className="App-footer">
-        Coded by Amanda Corral
+        Coded by Amanda Corral and open-sourced in <a href="https://github.com/Amandacorral07/Dictionary-Project" className="Github"> GitHub </a>
       </footer>
     </div>
     </div>
