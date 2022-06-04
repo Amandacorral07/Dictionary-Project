@@ -11,7 +11,7 @@ function App() {
         
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="beach"/>
       </main>
       <footer className="App-footer">
         Coded by Amanda Corral
